@@ -8,6 +8,7 @@ call plug#begin()
   Plug 'preservim/nerdtree'
   Plug 'rose-pine/neovim'
   Plug 'windwp/nvim-autopairs'
+  Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
 call plug#end()
 
 nnoremap <leader>n :NERDTreeFocus<CR>
