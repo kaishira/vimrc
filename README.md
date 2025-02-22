@@ -6,6 +6,7 @@ I made this config file simple by removing everything that I don't use, focusing
 
 - **Syntax Highlighting**
 - **NERDTree**: File navigation tool.
+- **autopairs**
 - **Relative Numbers**
 - **Rose Color Scheme**
 
