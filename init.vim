@@ -22,6 +22,8 @@ nnoremap <C-l> <C-w>l
 nnoremap <leader>h :split<CR>
 nnoremap <leader>v :vsplit<CR>
 nnoremap <leader>d :%d<CR>
+nnoremap <leader>q :%wqa<CR>
+nnoremap <leader>e :%qa!<CR>
 
 set number
 colorscheme rose-pine
