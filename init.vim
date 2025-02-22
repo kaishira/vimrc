@@ -1,3 +1,7 @@
+" Transparency level: 14
+" Cursor behavior: blink
+" Cursor style: underline
+
 syntax enable
 let mapleader = ","
 call plug#begin()
