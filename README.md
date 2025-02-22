@@ -9,6 +9,7 @@ I made this config file simple by removing everything that I don't use, focusing
 - **autopairs**
 - **Relative Numbers**
 - **Rose Color Scheme**
+- **Markdown Preview**
 
 ## Key Mappings
 
