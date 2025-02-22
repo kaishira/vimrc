@@ -1,17 +1,13 @@
 # vimrc
 
-A minimal `.vimrc` configuration for personal use.
-
-## Overview
-
 I made this config file simple by removing everything that I don't use, focusing on efficiency and clarity.
 
 ## Features
 
-- **Syntax Highlighting**: Enhances code readability.
+- **Syntax Highlighting**
 - **NERDTree**: File navigation tool.
-- **Line Numbers**: Displays the current line number.
-- **Color Scheme**: Rose Pine for a visually appealing interface.
+- **Relative Numbers**
+- **Rose Color Scheme**
 
 ## Key Mappings
 
